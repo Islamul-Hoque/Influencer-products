@@ -295,10 +295,10 @@ footer{
 }
 
 
-
+/* 
 .hide{
     display: none;
-} 
+}  */
 
 
 
@@ -326,11 +326,11 @@ footer{
 
 /* Header section */
 header{
-    background-color: rgb(246, 145, 13);
+    /* background-color: rgb(246, 145, 13); */
 }
 
 nav{
-    background-color: #5e6366;
+    /* background-color: #5e6366; */
     gap: 0.2rem;
     padding: 1rem;
 }
